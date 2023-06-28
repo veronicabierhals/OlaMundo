@@ -2,5 +2,4 @@
  Repósitório aulas Curso em Vídeo
  
 Curso de Git e GitHub
-
-Observação adicionada no site GitHub.
+do [@gustavoguanabara](https://github.com/gustavoguanabara)https://github.com/gustavoguanabara
